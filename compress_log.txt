@@ -1,0 +1,115 @@
+[2026-08-22 11:58:44] Fractal audio compressor started.
+[2026-08-22 11:59:10] Loading /Users/rogerleebagula/Music/iTunes/iTunes Media/Music/Roger Lee  Bagula/As Time Goes Bye/10 Red Smoke Shock.mp3...
+[2026-08-22 11:59:10] Sample rate: 44100, channels: 4, samples: 2363904
+[2026-08-22 11:59:10] Starting compression...
+[2026-08-22 11:59:10] Total range blocks: 2308
+[2026-08-22 11:59:10] Total domain blocks: 1154
+[2026-08-22 11:59:10] Using 3 processes for compression.
+[2026-08-22 11:59:11] Progress: block 1 / 2308
+[2026-08-22 11:59:23] Progress: block 51 / 2308
+[2026-08-22 11:59:35] Progress: block 101 / 2308
+[2026-08-22 11:59:46] Progress: block 151 / 2308
+[2026-08-22 11:59:58] Progress: block 201 / 2308
+[2026-08-22 12:00:09] Progress: block 251 / 2308
+[2026-08-22 12:00:22] Progress: block 301 / 2308
+[2026-08-22 12:00:34] Progress: block 351 / 2308
+[2026-08-22 12:00:47] Progress: block 401 / 2308
+[2026-08-22 12:00:59] Progress: block 451 / 2308
+[2026-08-22 12:01:11] Progress: block 501 / 2308
+[2026-08-22 12:01:23] Progress: block 551 / 2308
+[2026-08-22 12:01:34] Progress: block 601 / 2308
+[2026-08-22 12:01:46] Progress: block 651 / 2308
+[2026-08-22 12:01:56] Progress: block 701 / 2308
+[2026-08-22 12:02:08] Progress: block 751 / 2308
+[2026-08-22 12:02:19] Progress: block 801 / 2308
+[2026-08-22 12:02:31] Progress: block 851 / 2308
+[2026-08-22 12:02:42] Progress: block 901 / 2308
+[2026-08-22 12:02:54] Progress: block 951 / 2308
+[2026-08-22 12:03:05] Progress: block 1001 / 2308
+[2026-08-22 12:03:17] Progress: block 1051 / 2308
+[2026-08-22 12:03:28] Progress: block 1101 / 2308
+[2026-08-22 12:03:39] Progress: block 1151 / 2308
+[2026-08-22 12:03:51] Progress: block 1201 / 2308
+[2026-08-22 12:04:04] Progress: block 1251 / 2308
+[2026-08-22 12:04:16] Progress: block 1301 / 2308
+[2026-08-22 12:04:27] Progress: block 1351 / 2308
+[2026-08-22 12:04:38] Progress: block 1401 / 2308
+[2026-08-22 12:04:50] Progress: block 1451 / 2308
+[2026-08-22 12:05:01] Progress: block 1501 / 2308
+[2026-08-22 12:05:13] Progress: block 1551 / 2308
+[2026-08-22 12:05:24] Progress: block 1601 / 2308
+[2026-08-22 12:05:35] Progress: block 1651 / 2308
+[2026-08-22 12:05:47] Progress: block 1701 / 2308
+[2026-08-22 12:05:58] Progress: block 1751 / 2308
+[2026-08-22 12:06:09] Progress: block 1801 / 2308
+[2026-08-22 12:06:21] Progress: block 1851 / 2308
+[2026-08-22 12:06:32] Progress: block 1901 / 2308
+[2026-08-22 12:06:44] Progress: block 1951 / 2308
+[2026-08-22 12:06:55] Progress: block 2001 / 2308
+[2026-08-22 12:07:06] Progress: block 2051 / 2308
+[2026-08-22 12:07:18] Progress: block 2101 / 2308
+[2026-08-22 12:07:29] Progress: block 2151 / 2308
+[2026-08-22 12:07:40] Progress: block 2201 / 2308
+[2026-08-22 12:07:51] Progress: block 2251 / 2308
+[2026-08-22 12:08:02] Progress: block 2301 / 2308
+[2026-08-22 12:08:03] Compression finished.
+[2026-08-22 12:13:31] Fractal audio compressor started.
+[2026-08-22 12:14:53] Loading /Users/rogerleebagula/Music/iTunes/iTunes Media/Music/Roger Lee  Bagula/As Time Goes Bye/10 Red Smoke Shock.mp3...
+[2026-08-22 12:14:55] Sample rate: 44100, channels: 4, samples: 2363904
+[2026-08-22 12:14:55] Starting compression...
+[2026-08-22 12:14:55] Total range blocks: 2308
+[2026-08-22 12:14:55] Total domain blocks: 1154
+[2026-08-22 12:14:55] Using 3 processes for compression.
+[2026-08-22 12:14:56] Progress: block 1 / 2308
+[2026-08-22 12:15:07] Progress: block 51 / 2308
+[2026-08-22 12:15:19] Progress: block 101 / 2308
+[2026-08-22 12:15:31] Progress: block 151 / 2308
+[2026-08-22 12:15:43] Progress: block 201 / 2308
+[2026-08-22 12:15:56] Progress: block 251 / 2308
+[2026-08-22 12:16:08] Progress: block 301 / 2308
+[2026-08-22 12:16:20] Progress: block 351 / 2308
+[2026-08-22 12:16:32] Progress: block 401 / 2308
+[2026-08-22 12:16:44] Progress: block 451 / 2308
+[2026-08-22 12:16:56] Progress: block 501 / 2308
+[2026-08-22 12:17:08] Progress: block 551 / 2308
+[2026-08-22 12:17:21] Progress: block 601 / 2308
+[2026-08-22 12:17:34] Progress: block 651 / 2308
+[2026-08-22 12:17:46] Progress: block 701 / 2308
+[2026-08-22 12:17:58] Progress: block 751 / 2308
+[2026-08-22 12:18:09] Progress: block 801 / 2308
+[2026-08-22 12:18:21] Progress: block 851 / 2308
+[2026-08-22 12:18:33] Progress: block 901 / 2308
+[2026-08-22 12:18:44] Progress: block 951 / 2308
+[2026-08-22 12:18:56] Progress: block 1001 / 2308
+[2026-08-22 12:19:08] Progress: block 1051 / 2308
+[2026-08-22 12:19:20] Progress: block 1101 / 2308
+[2026-08-22 12:19:31] Progress: block 1151 / 2308
+[2026-08-22 12:19:43] Progress: block 1201 / 2308
+[2026-08-22 12:19:55] Progress: block 1251 / 2308
+[2026-08-22 12:20:07] Progress: block 1301 / 2308
+[2026-08-22 12:20:19] Progress: block 1351 / 2308
+[2026-08-22 12:20:29] Progress: block 1401 / 2308
+[2026-08-22 12:20:40] Progress: block 1451 / 2308
+[2026-08-22 12:20:51] Progress: block 1501 / 2308
+[2026-08-22 12:21:02] Progress: block 1551 / 2308
+[2026-08-22 12:21:12] Progress: block 1601 / 2308
+[2026-08-22 12:21:23] Progress: block 1651 / 2308
+[2026-08-22 12:21:34] Progress: block 1701 / 2308
+[2026-08-22 12:21:46] Progress: block 1751 / 2308
+[2026-08-22 12:21:58] Progress: block 1801 / 2308
+[2026-08-22 12:22:10] Progress: block 1851 / 2308
+[2026-08-22 12:22:21] Progress: block 1901 / 2308
+[2026-08-22 12:22:32] Progress: block 1951 / 2308
+[2026-08-22 12:22:42] Progress: block 2001 / 2308
+[2026-08-22 12:22:53] Progress: block 2051 / 2308
+[2026-08-22 12:23:04] Progress: block 2101 / 2308
+[2026-08-22 12:23:14] Progress: block 2151 / 2308
+[2026-08-22 12:23:25] Progress: block 2201 / 2308
+[2026-08-22 12:23:36] Progress: block 2251 / 2308
+[2026-08-22 12:23:47] Progress: block 2301 / 2308
+[2026-08-22 12:23:48] Compression finished.
+[2026-08-22 12:23:48] Saved .bl file: /Users/rogerleebagula/FractalAudio/10 Red Smoke Shock.bl
+[2026-08-22 12:23:48] Total entries: 2308
+[2026-08-22 12:23:48] Done.
+[2026-08-22 12:27:20] Fractal audio compressor started.
+[2026-08-22 12:28:19] No input file selected. Exiting.
